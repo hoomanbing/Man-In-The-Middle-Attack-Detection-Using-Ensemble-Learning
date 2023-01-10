@@ -3,6 +3,7 @@ Cyber security is one of the most vital demands about network infrastructure and
 
 ## Architecture of the proposed Ensemble Learning model to detect Man-In-The-Middle Attacks
 ![architecture-2-2](https://user-images.githubusercontent.com/91937177/211618549-2c4d5383-9d3f-42d3-b591-a2e700a6eaa1.png)
+
 The adaptive ensemble learning model showed mainly includes the following processes:
 1) Inputting the IoT intrusion training dataset.
 2) Using the pre-processing module to convert the character-type into numbers, standardizing the data, and deleting unnecessary features.
@@ -12,8 +13,8 @@ The adaptive ensemble learning model showed mainly includes the following proces
 
 ![chart-3](https://user-images.githubusercontent.com/91937177/211621146-a25aa87d-d4bf-40a1-9bc7-7f850adb8def.png)
 
-###Paper: https://ieeexplore.ieee.org/document/9984365
-###Authors: 
+Paper: https://ieeexplore.ieee.org/document/9984365
+Authors: 
 
 Krittika Das, Department of CSE, Techno International New Town, Kolkata, India
 
