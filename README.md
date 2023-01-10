@@ -14,9 +14,8 @@ The adaptive ensemble learning model showed mainly includes the following proces
 
 Paper: https://ieeexplore.ieee.org/document/9984365
 Authors: 
-Krittika Das
-Department of CSE, Techno International New Town, Kolkata, India
-Rajdeep Basu
-Department of AI & ML, Techno International New Town, Kolkata, India
-Raja Karmakar
-Department of CSE, Techno International New Town, Kolkata, India
+Krittika Das, Department of CSE, Techno International New Town, Kolkata, India
+
+Rajdeep Basu, Department of AI & ML, Techno International New Town, Kolkata, India
+
+Raja Karmakar, Department of CSE, Techno International New Town, Kolkata, India
