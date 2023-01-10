@@ -13,3 +13,10 @@ The adaptive ensemble learning model showed mainly includes the following proces
 ![chart-3](https://user-images.githubusercontent.com/91937177/211621146-a25aa87d-d4bf-40a1-9bc7-7f850adb8def.png)
 
 Paper: https://ieeexplore.ieee.org/document/9984365
+Authors: 
+Krittika Das
+Department of CSE, Techno International New Town, Kolkata, India
+Rajdeep Basu
+Department of AI & ML, Techno International New Town, Kolkata, India
+Raja Karmakar
+Department of CSE, Techno International New Town, Kolkata, India
