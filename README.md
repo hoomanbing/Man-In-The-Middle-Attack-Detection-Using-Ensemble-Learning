@@ -11,3 +11,5 @@ The adaptive ensemble learning model showed mainly includes the following proces
 5) Each algorithm selected is used to detect the test set, output the preliminary predict classification, and then calculate result using the most accurate algorithm (here Random Forest).
 
 ![chart-3](https://user-images.githubusercontent.com/91937177/211621146-a25aa87d-d4bf-40a1-9bc7-7f850adb8def.png)
+
+Paper: https://ieeexplore.ieee.org/document/9984365
